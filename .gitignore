@@ -1,1 +1,5 @@
 # Created by .ignore support plugin (hsz.mobi)
+data/*
+output/*
+.idea
+/output/data_struct.json
